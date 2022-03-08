@@ -1,8 +1,7 @@
 # **Kaggle-Competitions**
 
 ## **Competition 1 (Analysing Titanic Survival)**
-In this competition the goal is to predict the titanic survival. First I have analyze the data, then secondly I have clean the data, visualize the data and then normalize the 
-data and pally machine learning algorithms.I have also used K-fold technique to check which Algorithm is giving best accuracy. So, in this project I have used the following machine learning models:
+### **In this competition the goal is to predict the titanic survival. First I have analyze the data, then secondly I have clean the data, visualize the data and then normalize the data and pally machine learning algorithms.I have also used K-fold technique to check which Algorithm is giving best accuracy. So, in this project I have used the following machine learning models:**
 ### **1. Logistic Regression**
 ### **2. Super Vector Machine**
 ### **3. Perceptron**
