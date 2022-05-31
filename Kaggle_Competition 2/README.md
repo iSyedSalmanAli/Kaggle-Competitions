@@ -1,6 +1,6 @@
-## **In this project the goal is to predict the houses price. First I have analyze the data, then then secondly I have clean the data,visualize the data and then** 
-## **normalize the data and apply machine learning supervised algorithms because it is the regression problem. I have also used cross validation score for selecting 
-## **the best model.**
+## **In this project the goal is to predict the houses price. First I have analyze the data, then then secondly I have clean the data,visualize the data and then
+## normalize the data and apply machine learning supervised algorithms because it is the regression problem. I have also used cross validation score for selecting 
+## the best model.**
 
 ![P1](https://user-images.githubusercontent.com/90540916/157315302-541b3d97-63b4-47d3-b4fc-9ca81ea6132a.PNG)
 ![P2](https://user-images.githubusercontent.com/90540916/157315308-25507bd5-7432-4198-b58e-35610fcb04c3.PNG)
