@@ -24,5 +24,6 @@ https://user-images.githubusercontent.com/90540916/157314413-a1c021da-92e3-475f-
 
 
 ## **Competition 3 (Predict Future Sales)**
-### **The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.So, in this project. I have used the following machine learning model:**
+### **The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge. So, in this project. I have used the following machine learning model:**
 ### **1. XGBoost Regressor**
+https://user-images.githubusercontent.com/90540916/171129754-dd5e9816-c873-4a47-85e0-6ba4858c3ee4.mp4
