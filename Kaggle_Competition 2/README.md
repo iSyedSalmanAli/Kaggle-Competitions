@@ -1,4 +1,4 @@
-### **In this project the goal is to predict the houses price. First I have analyze the data, then then secondly I have clean the data,visualize the data and then 
+###**In this project the goal is to predict the houses price. First I have analyze the data, then then secondly I have clean the data,visualize the data and then 
 normalize the data and apply machine learning supervised algorithms because it is the regression problem. I have also used cross validation score for selecting the 
 best model.**
 
