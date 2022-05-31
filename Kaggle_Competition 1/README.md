@@ -1,4 +1,4 @@
-## **In this competition the goal is to predict the titanic survival. First I have analyze the data, then secondly I have clean the data, visualize the data and then normalize the data and pally machine learning algorithms.I have also used K-fold technique to check which Algorithm is giving best accuracy.**
+## In this competition the goal is to predict the titanic survival. First I have analyze the data, then secondly I have clean the data, visualize the data and then normalize the data and pally machine learning algorithms.I have also used K-fold technique to check which Algorithm is giving best accuracy.
 
 ![P1](https://user-images.githubusercontent.com/90540916/157312285-1d7a6f43-6860-40e9-b4d9-f7d501c8e457.PNG)
 ![P2](https://user-images.githubusercontent.com/90540916/157312291-d3258747-a919-4584-aedd-81a8ff945b1b.PNG)
