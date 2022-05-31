@@ -1,6 +1,8 @@
 ## The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. 
 ## Creating a robust model that can handle such situations is part of the challenge.
 
+
+
 **Count for Different Items Categories**
 ![image](https://user-images.githubusercontent.com/90540916/171132339-bc9fcdb9-4afa-4cf7-a6d3-9a6b07dd6ed7.png)
 
